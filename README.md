@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13688502&assignment_repo_type=AssignmentRepo)
 # Lesson 5 Project
 You’re starting to get into the meat of HTML, learning how to format pages using CSS. You’ll use inline CSS in this lesson to demonstrate color methods, fonts, and font families. Think about how the styles you apply will appear to a user, keeping in mind that this page in your portfolio will demonstrate that you know how to apply styles, as well as that you understand why you’ve made your styling choices.
 
